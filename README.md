@@ -3,6 +3,7 @@
 
 To contribute this repository 
 
-Please add your name 
+Please add your name and the name of country
 
-Akila Bandara 
+Akila Bandara - Sri Lanka
+
